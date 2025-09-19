@@ -1,0 +1,5 @@
+price_new = int(input('Введите цену бананов'))
+price_old = int(input('Введите цену бананов год назад'))
+b = abs(((price_new - price_old) / price_old) * 100)
+result = round(b, 2)
+print(f'Цена изменилась на', result)

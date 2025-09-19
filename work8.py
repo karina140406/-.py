@@ -1,0 +1,5 @@
+print(" 'ИВАН' < 'иван':", 'ИВАН' < 'иван')
+print("'Python' < 'R':", 'Python' < 'R')
+print("'big number' != 'bug number':", 'big number' != 'bug number')
+print("'ЯЯЯ' == 'Я Я':", 'ЯЯЯ' == 'Я Я')
+print("'игра' >= 'икра':", 'игра' >= 'икра')
