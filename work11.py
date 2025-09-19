@@ -12,3 +12,5 @@ a = False - True
 print(a)
 b = True + 0
 print(b)
+k = 1
+print(k)
