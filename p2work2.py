@@ -1,0 +1,6 @@
+var_1 = list(range(-100, 101, 1))
+var_2 = list(range(250, -1, -2))
+var_3 = list(range(101, 202, 2))
+print('var_1:',var_1)
+print('var_2:',var_2)
+print('var_3:',var_3)
